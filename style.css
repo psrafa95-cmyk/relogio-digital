@@ -1,0 +1,26 @@
+body{
+background-color:#111;
+color:white;
+font-family:Arial, sans-serif;
+
+display:flex;
+justify-content:center;
+align-items:center;
+
+height:100vh;
+margin:0;
+flex-direction:column;
+}
+
+h1{
+margin-bottom:20px;
+}
+
+#relogio{
+font-size:60px;
+background:black;
+padding:20px 40px;
+border-radius:10px;
+letter-spacing:3px;
+color:#00ffcc;
+}
